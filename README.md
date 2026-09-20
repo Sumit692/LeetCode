@@ -26,7 +26,7 @@ This repository contains solutions covering topics such as:
 
 The **problem names/titles in this repository are correct**, but **some folder names contain incorrect LeetCode problem numbers**.
 
-This happened because of a **LeetCode push-extension numbering glitch** while pushing the solutions to GitHub.
+This happened because of a **LeetCode extension numbering glitch** while pushing the solutions to GitHub.
 
 For example:
 
